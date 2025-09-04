@@ -1,1 +1,3 @@
 # Colmibot_Hardware
+
+Este es un robot móvil con configuración diferencial que se diseñó y construyó con el propósito de ser una plataforma de pruebas previo a robots grandes, donde se pruebe desde el hardware de bajo nivel, que incluye sensores, motores, encoders, control de velocidad entre otras cosas, hasta cuestiones de mediano y alto nivel como visión computacional, algoritmos de navegación, SLAM, entre otros, los cuales se tiene previsto que sean nodos en una arquitectura modular construida con ROS2 Jazz Jalisco, que corre en Ubuntu 24.04 Noble Numbat.
